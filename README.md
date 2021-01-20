@@ -19,3 +19,9 @@ An Class/Object has two characteristics:
 #### __ self __ :
 current instance of the class
 
+#### *args:
+variable number of arguments
+
+#### **kwargs:
+keyword (key/value) based variable number of arguments
+
